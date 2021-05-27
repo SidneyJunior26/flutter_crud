@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-Simple application for user registration
+Simple application for user registration.
+It is possible to view, add, change and delete users.
 
 ![image](https://user-images.githubusercontent.com/54687122/119748379-30891380-be6b-11eb-9a01-fa1613461599.png)
 
